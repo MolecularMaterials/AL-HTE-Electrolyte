@@ -7,3 +7,4 @@ Juran Noh, Hieu A. Doan, Heather Job, Lily A. Robertson, Lu Zhang, Rajeev S. Ass
 - _BTZ-BinarySolvents-features.csv_: Generated features for the binary solvent search space
 - _BTZ-BinarySolvents-ExpResults.csv_: Training data for Bayesian optimization
 - **BTZ-binarySolvents-productionRun.ipynb**: Jupyter notebook for executing Bayesian optimization loops
+[![DOI](https://zenodo.org/badge/756654827.svg)](https://zenodo.org/doi/10.5281/zenodo.10652590)
